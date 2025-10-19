@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:finalapp_kevin/routes/app_routes.dart'; 
-import 'package:finalapp_kevin/services/auth_service.dart'; // Tu clase AuthService
-import 'package:finalapp_kevin/services/product_service.dart'; // Tu clase ProductService
-import 'package:finalapp_kevin/themes/app_theme.dart'; // Tu tema AppTheme
+import 'package:finalapp_kevin/services/auth_service.dart'; 
+import 'package:finalapp_kevin/services/product_service.dart'; 
+import 'package:finalapp_kevin/themes/app_theme.dart'; 
 
 void main() {
   runApp(const AppState());
